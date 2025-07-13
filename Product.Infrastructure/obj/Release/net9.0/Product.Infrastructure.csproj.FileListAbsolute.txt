@@ -1,0 +1,17 @@
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/bin/Release/net9.0/Product.Infrastructure.deps.json
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/bin/Release/net9.0/Product.Infrastructure.runtimeconfig.json
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/bin/Release/net9.0/Product.Infrastructure.dll
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/bin/Release/net9.0/Product.Infrastructure.pdb
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/bin/Release/net9.0/Product.Domain.dll
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/bin/Release/net9.0/Product.Domain.pdb
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/obj/Release/net9.0/Product.Infrastructure.csproj.AssemblyReference.cache
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/obj/Release/net9.0/Product.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/obj/Release/net9.0/Product.Infrastructure.AssemblyInfoInputs.cache
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/obj/Release/net9.0/Product.Infrastructure.AssemblyInfo.cs
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/obj/Release/net9.0/Product.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/obj/Release/net9.0/Product..29DFF9BD.Up2Date
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/obj/Release/net9.0/Product.Infrastructure.dll
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/obj/Release/net9.0/refint/Product.Infrastructure.dll
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/obj/Release/net9.0/Product.Infrastructure.pdb
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/obj/Release/net9.0/Product.Infrastructure.genruntimeconfig.cache
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Infrastructure/obj/Release/net9.0/ref/Product.Infrastructure.dll

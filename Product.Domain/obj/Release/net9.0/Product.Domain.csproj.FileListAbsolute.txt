@@ -1,0 +1,11 @@
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Domain/bin/Release/net9.0/Product.Domain.deps.json
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Domain/bin/Release/net9.0/Product.Domain.dll
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Domain/bin/Release/net9.0/Product.Domain.pdb
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Domain/obj/Release/net9.0/Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Domain/obj/Release/net9.0/Product.Domain.AssemblyInfoInputs.cache
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Domain/obj/Release/net9.0/Product.Domain.AssemblyInfo.cs
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Domain/obj/Release/net9.0/Product.Domain.csproj.CoreCompileInputs.cache
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Domain/obj/Release/net9.0/Product.Domain.dll
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Domain/obj/Release/net9.0/refint/Product.Domain.dll
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Domain/obj/Release/net9.0/Product.Domain.pdb
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Domain/obj/Release/net9.0/ref/Product.Domain.dll

@@ -1,0 +1,17 @@
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/bin/Debug/net9.0/Product.Application.deps.json
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/bin/Debug/net9.0/Product.Application.dll
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/bin/Debug/net9.0/Product.Application.pdb
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/bin/Debug/net9.0/Product.Domain.dll
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/bin/Debug/net9.0/Product.Infrastructure.dll
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/bin/Debug/net9.0/Product.Infrastructure.pdb
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/bin/Debug/net9.0/Product.Domain.pdb
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/obj/Debug/net9.0/Product.Application.csproj.AssemblyReference.cache
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/obj/Debug/net9.0/Product.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/obj/Debug/net9.0/Product.Application.AssemblyInfoInputs.cache
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/obj/Debug/net9.0/Product.Application.AssemblyInfo.cs
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/obj/Debug/net9.0/Product.Application.csproj.CoreCompileInputs.cache
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/obj/Debug/net9.0/Product..7E280BC3.Up2Date
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/obj/Debug/net9.0/Product.Application.dll
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/obj/Debug/net9.0/refint/Product.Application.dll
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/obj/Debug/net9.0/Product.Application.pdb
+/Users/raghavendra/Desktop/POC/CQRS/ProductService/Product.Application/obj/Debug/net9.0/ref/Product.Application.dll
